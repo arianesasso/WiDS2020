@@ -1,6 +1,7 @@
 # WiDS2020
-This repository contains the work AcES2Predict team submitted to WiDS Datathon 2020 https://www.kaggle.com/c/widsdatathon2020. We used LightGBM and Catboost for this challenge. \\
-Our best submission's AUC score on the test data: `0.911`.
+This repository contains the work from AcES2Predict team submitted to the [WiDS Datathon 2020](https://www.kaggle.com/c/widsdatathon2020). We used LightGBM and Catboost for this challenge.
+
+Our best submission had an AUC score on the test data of: `0.911`.
 
 ### Paper
 Please check our one page paper under the `doc` folder: [link](https://github.com/arianesasso/WiDS2020/blob/master/doc/WIDS_2020.pdf)
