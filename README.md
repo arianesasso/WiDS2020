@@ -6,9 +6,9 @@ We used LightGBM and Catboost for this challenge.
 Our best submission had an AUC score on the test data of: `0.911`.
 
 ### Paper
-Please check our one page paper under the `doc` folder: [link](https://github.com/arianesasso/WiDS2020/blob/master/doc/WIDS_2020.pdf)
+Please check out our one page paper under the `doc` folder: [link](https://github.com/arianesasso/WiDS2020/blob/master/doc/WIDS_2020.pdf)
 
-### AcES2Predict members
+### AcES2Predict Team
 * Sedigheh Eslami (sedigheh.eslami@data4life.care)
 * Evegenia Anikia (evgeniya.anikina@data4life.care)
 * Ariane Morassi Sasso (ariane.morassi-sasso@hpi.de)
